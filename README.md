@@ -1,6 +1,5 @@
-# adminer
-Adminer - Docker-compose
+# Adminer
 
-Ver en "localhost:8080"
+Ver en "http://localhost:8080"
 
 
